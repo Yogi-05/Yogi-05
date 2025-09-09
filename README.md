@@ -1,7 +1,7 @@
 
 ## About Me
 
-Yogesh M A | 20 | He/Him ❤
+Yogesh M A | 21 | He/Him ❤
 
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yogi-05/yoge-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
